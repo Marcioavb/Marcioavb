@@ -27,8 +27,6 @@ Vamos construir juntos! 👥
   
 </div>
   
-  ##
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marcioavb&theme=dark&hide_border=verdadeiro&locale=pt_BR)](https://git.io/streak-stats)
 ## Contatos:
 
 <div>
